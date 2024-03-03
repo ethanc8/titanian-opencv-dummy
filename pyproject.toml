@@ -12,7 +12,7 @@ authors = [
     { name = "Ethan Charoenpitaks", email = "echaroenpitaks@gmail.com" },
 ]
 dependencies = [
-    "opencv-contrib-python==4.9.0.80",
+    # "opencv-contrib-python==4.9.0.80",
 ]
 
 # This module has no content of its own whatsoever, but hatch requires
